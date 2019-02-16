@@ -1,5 +1,8 @@
-# DJI Mobile SDK for iOS
+# DJI Mobile SDK for iOS 
 https://developer.dji.com/mobile-sdk/documentation/application-development-workflow/workflow-integrate.html#xcode-project-integration
+
+# DJI sample code link with SDK
+https://github.com/bha6kar/DJI-iOS-SDK-sample.git
 
 ## What Is This?
 
