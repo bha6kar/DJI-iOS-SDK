@@ -1,5 +1,5 @@
 # DJI Mobile SDK for iOS
-https://developer.dji.com/mobile-sdk/documentation/application-development-workflow/workflow-integrate.html#android-studio-project-integration
+https://developer.dji.com/mobile-sdk/documentation/application-development-workflow/workflow-integrate.html#xcode-project-integration
 
 ## What Is This?
 
